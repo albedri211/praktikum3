@@ -2,8 +2,8 @@
 ## Tugas Praktikum3
 
 ## latihan1
-![Gambar 1](screenshot/tugas%201.jpeg)
-![Gambar 2](screenshot/hasil%201.jpeg)
+![Gambar 1](screenshot/hasil%201.jpeg)
+![Gambar 2](screenshot/tugas%201.jpeg)
 
 ## latihan2
 ![Gambar 3](screenshot/tugas%202.jpeg)
